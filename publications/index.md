@@ -12,19 +12,19 @@ comments: true
 
 - Zekun Xu, Eric B. Laber, Ana-Maria Staicu. Hierarchical Continuous Time Hidden Markov Model,
 with Application in Zero-Inflated Accelerometer Data. Invited book chapter in Statistical Modeling
-for Biomedical Research, Springer, 2019. [Preprint at](http://arxiv.org/abs/1812.01162).
+for Biomedical Research, Springer, 2019. [Preprint available.](http://arxiv.org/abs/1812.01162).
 
 - Zekun Xu, Eric B. Laber, Ana-Maria Staicu. A Partially Observable Markov Decision Process
 Framework for Dynamic Treatment Regime in Longitudinal Observational Studies. Under review.
 
 - Zekun Xu, Deovrat Kakde, Arin Chaudhuri. Automatic Hyperparameter Tuning Method for
-Local Outlier Factor, with Applications to Anomaly Detection. [Technical paper available at](https://support.sas.com/en/technical-papers-iot.html).
+Local Outlier Factor, with Applications to Anomaly Detection. [Technical paper available.](https://support.sas.com/en/technical-papers-iot.html)
 
 - Zekun Xu, Eric B. Laber, Ana-Maria Staicu, B. Duncan X. Lascelles. Modeling high-frequency
 activity data: lessons from the arthritic cat. Under review.
 
 - Zekun Xu, Ye Liu. A Regularized Vector Autoregressive Hidden
-Semi-Markov Model, with Application to Multivariate Financial Data [Preprint at](https://arxiv.org/pdf/1804.10308.pdf).
+Semi-Markov Model, with Application to Multivariate Financial Data [Preprint available.](https://arxiv.org/pdf/1804.10308.pdf).
 
 #### Application
 
