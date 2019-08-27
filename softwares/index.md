@@ -9,30 +9,21 @@ comments: true
 {% include _toc.html %}
 
 
-#### R package (with rcpp) developer
+#### R (and Rcpp)
 
-- Zero-inflated Poisson hidden semi-Markov model: [ziphsmm](https://cran.r-project.org/web/packages/ziphsmm/index.html).  
+- Developer of the R packages [ziphsmm](https://cran.r-project.org/web/packages/ziphsmm/index.html) and [rarhsmm](https://cran.r-project.org/web/packages/rarhsmm/index.html).
+ 
+- Developer of R Shiny Apps for [sample size comparison between classic randomization and multi-arm bandit design](https://zekun-jack-xu.shinyapps.io/bandit) and for the game: [get 24](https://zekunxu.shinyapps.io/card24).
 
-- Regularized autoregressive hidden semi-Markov model: [rarhsmm](https://cran.r-project.org/web/packages/rarhsmm/index.html).
+#### Python  
 
-- Both R packages are also archived in my [Github Repository](https://github.com/Zekun-Jack-Xu/My_R_packages).
+-  Developer of Python package [glssm](https://github.com/Zekun-Jack-Xu/glssm)
 
-- R shiny App for [sample size comparison between classic and multi-arm bandit design](https://zekun-jack-xu.shinyapps.io/bandit).
+#### SAS
 
-- R shiny App for the game: [get 24](https://zekunxu.shinyapps.io/card24).
+- Certified Advanced Programmer for SAS 9
 
-
-#### SAS Certified Advanced Programmer for SAS 9
-
-- Data manipulation with SQL and hash tables.
-
-- Simulation studies with IML, macros and common statistical procedures.
+#### SQL
+ 
 
 
-#### Python User
-
-- Used Pandas, NumPy, SciPy packages for data manipulation and feature construction.
-
-- Used scikit-learn, tensorflow and xgboost packages for Kaggle machine learning competitions.
-
-- Python notebook.
