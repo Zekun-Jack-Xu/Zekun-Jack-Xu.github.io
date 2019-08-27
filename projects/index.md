@@ -10,15 +10,14 @@ comments: true
 
 
 #### Partially Observable Markov Decision Process for Personalized Medicine
- 
- - Propose a partially observable Markov decision process framework that recommends personalized
+
+- Propose a partially observable Markov decision process framework that recommends personalized
 treatment for maximizing patient outcome.
 
-- Study asymptotics and causal inference in Q-Learning and V-learning with
-functional approximation.
+- Study asymptotics and causal inference in Q-Learning and V-learning with functional approximation.
 
 #### Hidden Markov Models for Longitudinal Accelerometer Data
- 
+
 - Develop a gradient-based estimation and inference for hierarchical hidden Markov model on zero-inflated count data.  
 
 - Apply the methodology on clinical accelerometer data for arthritic cat and human physical activity.
