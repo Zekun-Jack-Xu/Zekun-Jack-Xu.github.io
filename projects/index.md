@@ -18,7 +18,7 @@ treatment for maximizing patient outcome.
 
 #### Hidden Markov Models for Longitudinal Accelerometer Data
 
-- Develop a gradient-based estimation and inference for hierarchical hidden Markov model on zero-inflated count data.  
+- Develop a gradient-based estimation and inference for hierarchical hidden Markov model on zero-inflated count data.
 
 - Apply the methodology on clinical accelerometer data for arthritic cat and human physical activity.
 
