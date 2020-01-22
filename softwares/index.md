@@ -11,7 +11,7 @@ comments: true
 
 #### R (and Rcpp)
 
-- Developer of the R packages [ziphsmm](https://cran.r-project.org/web/packages/ziphsmm/index.html) and [rarhsmm](https://cran.r-project.org/web/packages/rarhsmm/index.html).
+- Developer of the R packages [ziphsmm](https://cran.r-project.org/web/packages/ziphsmm/index.html).
  
 - Developer of R Shiny Apps for [sample size comparison between classic randomization and multi-arm bandit design](https://zekun-jack-xu.shinyapps.io/bandit) and for the game: [get 24](https://zekunxu.shinyapps.io/card24).
 

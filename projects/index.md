@@ -9,7 +9,7 @@ comments: true
 {% include _toc.html %}
 
 
-#### Partially Observable Markov Decision Process for Personalized Medicine
+#### Latent State Models for Personalized Medicine
 
 - Propose a partially observable Markov decision process framework that recommends personalized
 treatment for maximizing patient outcome.
