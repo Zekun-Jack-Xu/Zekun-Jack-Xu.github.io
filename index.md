@@ -67,7 +67,7 @@ tuning for local outlier factor
 - Biostatistician in Outcomes Research, July 2013 - March 2014
 
 - Query hospital database and perform statistical analysis on registry studies
- 
+
 - Collaborate with clinicians on medical manuscripts
 
 
