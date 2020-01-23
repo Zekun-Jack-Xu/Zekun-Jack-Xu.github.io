@@ -21,7 +21,7 @@ for Biomedical Research, Springer, 2019.
 - Zekun Xu, Eric B. Laber, Ana-Maria Staicu, B. Duncan X. Lascelles. Modeling high-frequency
 activity data: lessons from the arthritic cat. Submitted to Natural Science Report.
 
-- Zhen Li, Zekun Xu, Eric B. Laber. Note on inference for adaptive clinical trials. Submitted to Biometrika.
+- Zhen Li*, Zekun Xu*, Eric B. Laber. Note on inference for adaptive clinical trials. Submitted to Biometrika.
 
 
 #### Application
