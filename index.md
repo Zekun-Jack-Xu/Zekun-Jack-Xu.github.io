@@ -11,7 +11,7 @@ image:
 Welcome to Zekun Xu's Github page. I am currently a phd student in [_Statistics at North Carolina State University_](http://www.stat.ncsu.edu/). I worked for two years as biostatistician before entering the current phd program. During the program, I had research internship experience at SAS Institute and data scientist internship experience at Google. My research interests are hidden Markov models, reinforcement learning, time series analysis and causal inference.
 
 
-## Education
+# Education
 
 ### North Carolina State University, Raleigh, NC, USA
 
@@ -34,7 +34,7 @@ with Recognition for Excellence in Classroom Teaching
 
 
 
-## Experience
+# Experience
 
 ### Google, Kirkland, WA, USA
 
@@ -50,7 +50,7 @@ with Recognition for Excellence in Classroom Teaching
 - Research on anomaly detection algorithms, with US patent (#10509847) on automatic parameter
 tuning for local outlier factor
 
-- Build machine learning algorithms for predictive modeling on high-frequency time series data
+- Build machine learning algorithms for predictive modeling on high-frequency time series data
 
 
 ### INC Research, Beijing, China
