@@ -34,3 +34,9 @@ pulsed ultrasound (LIPUS) vs. surgical and other treatments. Injury. 2016 Nov; 4
 
 - Madison SJ, Monahan AM, Agarwal RR, Furnish TJ, Mascha EJ, Zekun Xu, Donohue MC, Morgan
 AC, Ilfeld BM. A randomized, triple-masked, active-controlled investigation of the relative e ffects of dose, concentration, and infusion rate for continuous popliteal-sciatic nerve blocks in volunteers. Br J Anaesth. 2015; 114: 121-9.
+
+
+- Ilfeld BM, Madison SJ, Suresh PJ, Sandhu NS, Kormylo NJ, Malhotra N, Loland VJ, Wallace MS, Mascha EJ, {\bf Xu Z}, Wen CH, Morgan AC, Wallace AM.  Persistent post-mastectomy pain and pain-related physical / emotional functioning with and without a continuous paravertebral nerve block: A prospective 1-year follow-up of a randomized, triple-masked, placebo-controlled study.  Ann Surg Oncol. 2015; 22: 2017-25.     
+
+ 
+- Zhou G and {\bf Xu Z}. An Empirical Study on the Impact of Electronic Money on Inflation, The Theory and Practice of Finance and Economics. Vol. 174, 2011(6): pp.14-19. 
