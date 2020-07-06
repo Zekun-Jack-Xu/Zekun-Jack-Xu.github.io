@@ -8,7 +8,7 @@ image:
   feature: background1.jpg
 ---
 
-Welcome to Zekun Xu's Github page. I am currently a phd student in [_Statistics at North Carolina State University_](http://www.stat.ncsu.edu/). I worked for two years as biostatistician before entering the current phd program. During the program, I had research internship experience at SAS Institute and data scientist internship experience at Google. My research interests are hidden Markov models, reinforcement learning, time series analysis and causal inference.
+Welcome to Zekun Xu's Github page. I am an Applied Scientist at Amazon on the Alexa Privacy team. I got my PhD degree in [_Statistics at North Carolina State University_](http://www.stat.ncsu.edu/). I did research internship at SAS Institute, data scientist internship at Google, and 2 years of industry experience as biostatistician. My research interests include latent-state models, reinforcement learning, anomaly detection, and data privacy.
 
 
 # Education
@@ -35,6 +35,11 @@ with Recognition for Excellence in Classroom Teaching
 
 
 # Experience
+
+### Amazon, Seattle, WA, USA
+
+- Applied Scientist, July 2020 - Present
+
 
 ### Google, Kirkland, WA, USA
 
