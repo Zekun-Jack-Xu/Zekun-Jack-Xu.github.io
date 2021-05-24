@@ -8,7 +8,7 @@ image:
   feature: background1.jpg
 ---
 
-Welcome to Zekun Xu's Github page. I am an Applied Scientist at Amazon Alexa. I got my PhD degree in [_Statistics at North Carolina State University_](http://www.stat.ncsu.edu/). I did my research internship at SAS Institute, data scientist internship at Google, and worked 2 years as biostatistician in the industry. My research interests include latent-state models, reinforcement learning, NLP, and data privacy.
+Welcome to Zekun Xu's Github page. I am currently an Applied Scientist at Amazon. I got my PhD degree in [_Statistics at North Carolina State University_](http://www.stat.ncsu.edu/). I did my research internship at SAS Institute, data scientist internship at Google, and worked 2 years as biostatistician in the industry. My research interests include hidden Markov models, reinforcement learning, anomaly detection, NLP, and differential privacy.
 
 
 # Education
@@ -17,12 +17,7 @@ Welcome to Zekun Xu's Github page. I am an Applied Scientist at Amazon Alexa. I 
 
 - Ph.D. in Statistics, August 2015 - May 2020
 
-- Instrutor of ST 307 Introduction to SAS Programming in 2016 and 2017, 
-with Recognition for Excellence in Classroom Teaching
-
-- NC ASA Young Researcher Award for 2018 AISC Conference
-
-- Winner of Student Paper Competition for ASA Health Policy Statistics at JSM 2020
+-  Thesis ”Modern Methods of Hidden Markov Models and Partially Observable Markov Decision Processes in Biostatistics”, supervised by Dr.  Eric Laber and Dr.  Ana-Maria Staicu
 
 ### Carnegie Mellon University, Pittsburgh, PA, USA
 
@@ -32,7 +27,15 @@ with Recognition for Excellence in Classroom Teaching
 
 - Bachelor of Arts in Economics (Finance Major), September 2008 - May 2012
 
+# Awards and Honors
 
+- Winner of Student Paper Competition for ASA Health Policy Statistics at JSM 2020
+
+- NC ASA Young Researcher Award for 2018 AISC Conference2018
+
+- Recognition for Excellence in Classroom Teaching at NCSU in 2017
+
+- Mu Sigma Rho, National Statistics Honor Society
 
 # Experience
 
@@ -40,13 +43,9 @@ with Recognition for Excellence in Classroom Teaching
 
 - Applied Scientist II, July 2020 - Present
 
-
 ### Google, Kirkland, WA, USA
 
 - Data Scientist Intern, May 2019 - August 2019
-
-- Research on cross-median measurements for Google ads effectiveness
-
 
 ### SAS Institute, Cary, NC, USA
 
@@ -55,25 +54,17 @@ with Recognition for Excellence in Classroom Teaching
 - Research on anomaly detection algorithms, with US patent (#10509847) on automatic parameter
 tuning for local outlier factor
 
-- Build machine learning algorithms for predictive modeling on high-frequency time series data
-
-
 ### INC Research, Beijing, China
 
 - Biostatistician in Biometrics Group, March 2014 - June 2015
 
-- Develop statistical analysis plan, randomization schedules, and ADaM specifications
- 
-- Provide statistical consulting on Phase I - IV clinical trials
+- Develop statistical analysis plan, randomization schedules, and ADaM specifications for Phase I - IV clinical trials
 
 
 ### Cleveland Clinic Foundation, Cleveland, OH, USA
 
 - Biostatistician in Outcomes Research, July 2013 - March 2014
 
-- Query hospital database and perform statistical analysis on registry studies
-
-- Collaborate with clinicians on medical manuscripts
 
 
 
