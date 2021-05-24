@@ -31,12 +31,12 @@ comments: true
 
 #### Application
  
- - Robert Zura, {\bf Zekun Xu}, Gregory J. Della Rocca, Samir Mehta, R. Grant Steen. When is a fracture not fresh? Aligning reimbursement with patient outcome after treatment with low-intensity-pulsed ultrasound. \emph{J Orthopaedic Trauma (2017).}
+ - Robert Zura, Zekun Xu, Gregory J. Della Rocca, Samir Mehta, R. Grant Steen. When is a fracture not fresh? Aligning reimbursement with patient outcome after treatment with low-intensity-pulsed ultrasound. J Orthopaedic Trauma (2017).
  
- - Peter Nolte, Robert Anderson, Elton Strauss, Zhe Wang, Liuyi Hu, {\bf Zekun Xu}, R. Grant Steen. Heal rate of metatarsal fractures: A propensity-matching study of patients treated with low-intensity pulsed ultrasound (LIPUS) vs. surgical and other treatments. \emph{Injury. 2016 Nov; 47(11): 2584-2590. }
+ - Peter Nolte, Robert Anderson, Elton Strauss, Zhe Wang, Liuyi Hu, Zekun Xu, R. Grant Steen. Heal rate of metatarsal fractures: A propensity-matching study of patients treated with low-intensity pulsed ultrasound (LIPUS) vs. surgical and other treatments. Injury. 2016 Nov; 47(11): 2584-2590.
  
- - Ilfeld BM, Madison SJ, Suresh PJ, Sandhu NS, Kormylo NJ, Malhotra N, Loland VJ, Wallace MS, Mascha EJ, {\bf Zekun Xu}, Wen CH, Morgan AC, Wallace AM.  Persistent post-mastectomy pain and pain-related physical / emotional functioning with and without a continuous paravertebral nerve block: A prospective 1-year follow-up of a randomized, triple-masked, placebo-controlled study.  \emph{Ann Surg Oncol. 2015; 22: 2017-25}
+ - Ilfeld BM, Madison SJ, Suresh PJ, Sandhu NS, Kormylo NJ, Malhotra N, Loland VJ, Wallace MS, Mascha EJ, Zekun Xu, Wen CH, Morgan AC, Wallace AM.  Persistent post-mastectomy pain and pain-related physical / emotional functioning with and without a continuous paravertebral nerve block: A prospective 1-year follow-up of a randomized, triple-masked, placebo-controlled study.  Ann Surg Oncol. 2015; 22: 2017-25
  
- - Madison SJ, Monahan AM, Agarwal RR, Furnish TJ, Mascha EJ,  {\bf Zekun Xu}, Donohue MC, Morgan AC, Ilfeld BM. A randomized, triple-masked, active-controlled investigation of the relative effects of dose, concentration, and infusion rate for continuous popliteal-sciatic nerve blocks in volunteers.  \emph{Br J Anaesth. 2015; 114: 121-9.}  
+ - Madison SJ, Monahan AM, Agarwal RR, Furnish TJ, Mascha EJ,  Zekun Xu, Donohue MC, Morgan AC, Ilfeld BM. A randomized, triple-masked, active-controlled investigation of the relative effects of dose, concentration, and infusion rate for continuous popliteal-sciatic nerve blocks in volunteers.  Br J Anaesth. 2015; 114: 121-9.
 
-- Guangyou Zhou and {\bf Zekun Xu}. An Empirical Study on the Impact of Electronic Money on Inflation. \emph{The Theory and Practice of Finance and Economics. Vol. 174, 2011(6): pp.14-19.} 
+- Guangyou Zhou and Zekun Xu. An Empirical Study on the Impact of Electronic Money on Inflation. The Theory and Practice of Finance and Economics. Vol. 174, 2011(6): pp.14-19.
