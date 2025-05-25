@@ -8,8 +8,7 @@ image:
   feature: background1.jpg
 ---
 
-Welcome to Zekun Xu's Github page. I am currently an Applied Scientist at Amazon. I got my PhD degree in [_Statistics at North Carolina State University_](http://www.stat.ncsu.edu/). I did my research internship at SAS Institute, data scientist internship at Google, and worked 2 years as biostatistician in the industry. My research interests include hidden Markov models, reinforcement learning, anomaly detection, NLP, and differential privacy.
-
+Welcome to Zekun Xu's Github page. I am currently an Applied Scientist at Amazon. I got my PhD degree in [_Statistics at North Carolina State University_](http://www.stat.ncsu.edu/). I did my research internship at SAS Institute, data scientist internship at Google, and prior experience as biostatistician in the industry. 
 
 # Education
 
