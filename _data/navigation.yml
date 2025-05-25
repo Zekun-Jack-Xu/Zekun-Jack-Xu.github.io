@@ -1,10 +1,16 @@
 # Site navigation links
 
-- title: Softwares
-  url: /softwares/
+#- title: Softwares
+#  url: /softwares/
 
-- title: Projects
-  url: /projects/
+#- title: Projects
+#  url: /projects/
 
 - title: Publications
   url: /publications/
+
+- title: NumberGames5in1
+  url: /NumberGames5in1/
+
+- title: WastelandMatch3Puzzle
+  url: /WastelandMatch3Puzzle/
