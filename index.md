@@ -40,7 +40,7 @@ Welcome to Zekun Xu's Github page. I am currently an Applied Scientist at Amazon
 
 ### Amazon, Seattle, WA, USA
 
-- Applied Scientist II, July 2020 - Present
+- Applied Scientist, July 2020 - Present
 
 ### Google, Kirkland, WA, USA
 
