@@ -9,6 +9,9 @@ comments: true
 {% include _toc.html %}
 
 #### Methodology
+
+- Zekun Xu, Yudi Zhang. LLM-Enhanced Reranking for Complementary Product Recommendation.
+Second Workshop on Generative AI for Recommender Systems and Personalization. KDD, 2025.
  
  - Zekun Xu, Abhinav Aggarwal, Oluwaseyi Feyisetan, Nathanael Teissier. On a Utilitarian Approach to Privacy Preserving Text Generation. In Proceedings of the Third Workshop on Privacy in Natural Language Processing, NAACL, 2021.
 
