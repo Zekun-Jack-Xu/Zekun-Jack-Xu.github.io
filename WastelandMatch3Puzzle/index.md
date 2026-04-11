@@ -8,6 +8,8 @@ comments: true
 ---
 {% include _toc.html %}
 
+Link: https://apps.apple.com/be/app/wasteland-match-3-puzzle/id6746227790
+
 # Wasteland Match 3 Puzzle Privacy Policy
 
 This privacy policy discloses the privacy practices for the mobile application Wasteland Match 3 Puzzle, published by Zekun Xu. This privacy policy applies solely to information collected by this application. It will notify you of the following:

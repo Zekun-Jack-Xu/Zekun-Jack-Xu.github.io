@@ -8,6 +8,8 @@ comments: true
 ---
 {% include _toc.html %}
 
+Link - https://apps.apple.com/be/app/notes-3-in-1/id6761738361
+
 # Notes 3-in-1 Privacy Policy
 
 This privacy policy discloses the privacy practices for the mobile application Notes 3-in-1, published by Zekun Xu. This privacy policy applies solely to information collected by this application. It will notify you of the following:

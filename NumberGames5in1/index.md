@@ -8,6 +8,8 @@ comments: true
 ---
 {% include _toc.html %}
 
+Link: https://apps.apple.com/be/app/number-games-5-in-1/id6745440951
+
 # Number Games 5-in-1 Privacy Policy
 
 This privacy policy discloses the privacy practices for the mobile application Number Games 5-in-1, published by Zekun Xu. This privacy policy applies solely to information collected by this application. It will notify you of the following:
